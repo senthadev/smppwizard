@@ -4,7 +4,7 @@
   <artifactId>smppwizard</artifactId>
   <version>1.0.0</version>
   <name>smppwizard</name>
-  <description>A REST based smpp client</description>
+  <description>A RESTful based smpp client</description>
   
   <properties>
   	<!-- Use utf-8 for everything -->

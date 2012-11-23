@@ -1,0 +1,7 @@
+bin/*
+build/*
+dist/*
+.settings/*
+target/*
+.DS_Store
+logs/*
